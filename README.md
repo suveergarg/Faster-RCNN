@@ -1,7 +1,7 @@
 # RCNN
 
 In this project I implemented MaskRCNN, an algorithm that addresses the task of instance seg-
-mentation, which combines object detection and semantic segmentation into a per-pixel object detection framework.
+mentation, which combines object detection and semantic segmentation into a per-pixel object detection framework. We train the Network on the standard COCO dataset, which has three object classes.
 
 ### Network Architecture
 ![](images/NetworkArchitecture.png)
